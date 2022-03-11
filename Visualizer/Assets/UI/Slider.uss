@@ -1,0 +1,7 @@
+.unity-slider {
+    -unity-font-style: bold;
+    width: auto;
+    border-left-width: 10px;
+    font-size: 32px;
+    opacity: 1;
+}

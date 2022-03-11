@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: ViewerData
+  m_EditorClassIdentifier: Assembly-CSharp::SpawnManagerScriptableObject
+  Object_1: {fileID: 0}
+  OB1_Set1: []
+  OB1_Set2: []
+  OB1_Set3: []
+  Obj1_Orientation: {fileID: 0}
+  Object_2: {fileID: 0}
+  OB2_Set1: []
+  OB2_Set2: []
+  OB2_Set3: []
+  Object_3: {fileID: 0}
+  OB3_Set1: []
+  OB3_Set2: []
+  OB3_Set3: []
